@@ -1,6 +1,6 @@
 ---
 path: nss-1
-date: 2020-06-30T02:53:11.719Z
+date: 2018-02-21T06:00:00.000Z
 title: Partially through week 2
 description: NSS has begun
 ---
